@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "tools/eval.py", line 26, in <module>
+    from ppocr.data import build_dataloader
+  File "C:\Users\INTECOL\Documents\Edier\OCR_Paddle\ppocr\data\__init__.py", line 24, in <module>
+    import paddle
+  File "C:\Users\INTECOL\anaconda3\envs\ocrpaddle\lib\site-packages\paddle\__init__.py", line 344, in <module>
+    from .hapi import Model  # noqa: F401
+  File "C:\Users\INTECOL\anaconda3\envs\ocrpaddle\lib\site-packages\paddle\hapi\__init__.py", line 25, in <module>
+    logger.setup_logger()
+  File "C:\Users\INTECOL\anaconda3\envs\ocrpaddle\lib\site-packages\paddle\hapi\logger.py", line 47, in setup_logger
+    local_rank = ParallelEnv().local_rank
+  File "C:\Users\INTECOL\anaconda3\envs\ocrpaddle\lib\site-packages\paddle\fluid\dygraph\parallel.py", line 125, in __init__
+    self._device_id = int(selected_gpus[0])
+ValueError: invalid literal for int() with base 10: "'0'"

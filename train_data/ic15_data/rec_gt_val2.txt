@@ -1,0 +1,7 @@
+eval/0813M3(3).bmp	0813M3
+eval/0814M3(5).bmp	0814M3
+eval/0817M3(14).bmp	0817M3
+eval/0817M3(2).bmp	0817M3
+eval/0820M3(53).bmp	0820M3
+eval/0820M3(58).bmp	0820M3
+eval/0822M3(11).bmp	0822M3
