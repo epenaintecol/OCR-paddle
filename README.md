@@ -222,6 +222,9 @@ Debido al espacio de almacenamiento que permite github, este repositorio no pose
  
     C:\Users\INTECOL\Documents\Edier\ImagenesOCR_Paddle
 
+Las imagenes crudas, sin procesamiento(incluso mas de las que se se nombraron anteriormente) se pueden encontrar en el drive de david navarro de la FLA 
+ 
+    https://drive.google.com/drive/folders/1T6f10yu_47cYTAgsry-ogL70wAfTEwB_
 
 
 ## Bibliografia
